@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding=".DS_Store|.classpath|.gitignore|.htaccess|.project|.settings/|.travis.yml|BUGS.html|CONTRIBUTING.md|COPYRIGHT.html|DOWNLOAD.html.bg|DOWNLOAD.html.de|DOWNLOAD.html.el|DOWNLOAD.html.en|DOWNLOAD.html.es|DOWNLOAD.html.fa|DOWNLOAD.html.fr|DOWNLOAD.html.hi|DOWNLOAD.html.it|DOWNLOAD.html.ja|DOWNLOAD.html.ko|DOWNLOAD.html.nl|DOWNLOAD.html.pl-PL|DOWNLOAD.html.pt-BR|DOWNLOAD.html.ro|DOWNLOAD.html.ru|DOWNLOAD.html.sv|DOWNLOAD.html.uk|DOWNLOAD.html.zh-cn|Email.html.en|Email.html.fr|Email.html.ja|HOWTO.html|README.html|README.html.nl|README.md|TODO.html|about.html.bg|about.html.de|about.html.el|about.html.en|about.html.es|about.html.fa|about.html.fr|about.html.hi|about.html.it|about.html.ja|about.html.ko|about.html.nl|about.html.pl-PL|about.html.pt-BR|about.html.ro|about.html.ru|about.html.sv|about.html.uk|about.html.zh-cn|api.html|autotest/|bin/|build.xml|build/|css-validator.war|docs/|documentation.html.bg|documentation.html.de|documentation.html.el|documentation.html.en|documentation.html.es|documentation.html.fa|documentation.html.fr|documentation.html.hi|documentation.html.it|documentation.html.ja|documentation.html.ko|documentation.html.nl|documentation.html.pl-PL|documentation.html.pt-BR|documentation.html.ro|documentation.html.ru|documentation.html.sv|documentation.html.uk|documentation.html.zh-cn|favicon.ico|images/|lib/|manual.html.bg|manual.html.de|manual.html.el|manual.html.en|manual.html.es|manual.html.fa|manual.html.fr|manual.html.hi|manual.html.it|manual.html.ja|manual.html.ko|manual.html.nl|manual.html.pl-PL|manual.html.pt-BR|manual.html.ro|manual.html.ru|manual.html.sv|manual.html.uk|manual.html.zh-cn|pom.xml|scripts/|style/|tabtastic/|target/|thanks.html|tmp/|translations.html|validator.bat|validator.html.bg|validator.html.cs|validator.html.de|validator.html.el|validator.html.en|validator.html.es|validator.html.fa|validator.html.fr|validator.html.hi|validator.html.hu|validator.html.it|validator.html.ja|validator.html.ko|validator.html.nl|validator.html.pl-PL|validator.html.pt-BR|validator.html.ro|validator.html.ru|validator.html.sv|validator.html.uk|validator.html.zh-cn|web.xml" including="**/org/**" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/jeremyweber/development/w3c/css-validator/lib/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/Users/jeremyweber/development/w3c/css-validator/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/jeremyweber/development/w3c/css-validator/lib/commons-digester-1.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/jeremyweber/development/w3c/css-validator/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/jeremyweber/development/w3c/css-validator/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/jeremyweber/development/w3c/css-validator/lib/htmlparser-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/jeremyweber/development/w3c/css-validator/lib/jigsaw-2.2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/jeremyweber/development/w3c/css-validator/lib/servlet-api-2.5-6.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jeremyweber/development/w3c/css-validator/lib/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/jeremyweber/development/w3c/css-validator/lib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="/Users/jeremyweber/development/w3c/css-validator/lib/velocity-tools-generic-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jeremyweber/development/w3c/css-validator/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jeremyweber/development/w3c/css-validator/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
